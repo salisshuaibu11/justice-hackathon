@@ -1,0 +1,17 @@
+{
+	"name": "Justice",
+	"description": "Justice",
+	"short_name": "justice",
+	"display": "standalone",
+	"start_url": "/",
+	"background_color": "#808080",
+	"theme_color": "#ff3f20",
+	"icons": [
+		{
+			"src": "/help.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}
